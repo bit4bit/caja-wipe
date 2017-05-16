@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-15 22:22-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: caja-wipe.py:46
+msgid "If you wipe an item, it will not be recoverable."
+msgstr "Lo que elimine no podra ser recuperado"
+
+#: caja-wipe.py:59 caja-wipe.py:60
+msgid "Wipe this folder"
+msgid_plural "Wipe these folders"
+msgstr[0] "Eliminar este directorio"
+msgstr[1] "Eliminar estos directorios"
+
+#: caja-wipe.py:124
+msgid "<b>Are you sure you want to wipe \"{}\"?</b>"
+msgid_plural "<b>Are you sure you want to wipe the {} selected items?</b>"
+msgstr[0] "<b>Esta usted seguro(a) que desea eliminar \"{}\"?"
+msgstr[1] "<b>Esta usted seguro(a) que desea eliminar \"{}\"?"
+
+#: caja-wipe.py:111
+msgid "Wiping {} {}"
+msgstr "Eliminando {} {}"
